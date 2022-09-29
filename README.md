@@ -29,6 +29,15 @@ VGG16      96%
  VGG16      11%              
  ResNet50                                  
  Custom     7%    
+ 
 Designed architecture shows highest accuracy 97% besides VGG16 shows 96%
 Accuracy which is pretty good. On the other hand, ResNet50 has given lower 
 accuracy may be the reason is small dataset.
+
+![cotton plant1](https://user-images.githubusercontent.com/68694418/192964323-f4207fe5-e607-476b-998c-f8039e63842e.png)
+
+Figure 1 shows that, train accuracy increased 
+gradually.Test accuracy also increased gradually 
+but the curve is not smooth. 
+
+
