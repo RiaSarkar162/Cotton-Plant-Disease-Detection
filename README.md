@@ -1,4 +1,11 @@
 # Cotton-Plant-Disease-Detection
+
+➔ Determine cotton plant and leaf disease.                                          
+➔ Identify fresh cotton leaf , diseased cotton leaf, fresh 
+cotton tree and diseased cotton tree by image processing.                                               
+➔ The problem was to predict and determine cotton 
+plant disease.
+
 ### --------------------Algorithms I used:-----------------------
 I used Convolutional Neural Networks (CNN).                                                   
 Architecture: ResNet 50 ,VGG 16 and custom.
@@ -41,3 +48,9 @@ gradually.Test accuracy also increased gradually
 but the curve is not smooth. 
 
 
+
+![cotton plant](https://user-images.githubusercontent.com/68694418/192965048-984bb276-44ca-4daa-b8c9-a0d3a7ecfc84.png)
+
+Figure 2 shows that, train loss decreased 
+gradually. Test loss also decreased gradually 
+but the curve is not smooth.
