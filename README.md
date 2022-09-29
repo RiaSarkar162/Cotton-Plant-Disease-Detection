@@ -12,5 +12,11 @@ Input size: 64*64
 2. Convolutional Layer - 4                   
 Max Pooling layer - 3   
 Flatten and Dense layer                         
-Input size: 224*224                          
+Input size: 224*224          
+
+### ----------------Result and Discussion------------------------
+#### Architecture Accuracy:                       
+ VGG16      96%              
+ ResNet50  65%                               
+ Custom    97%           
 
