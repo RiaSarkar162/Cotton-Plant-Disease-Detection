@@ -20,3 +20,12 @@ Input size: 224*224
  ResNet50  65%                               
  Custom    97%           
 
+#### Validation Accuracy:
+VGG16      96%              
+ ResNet50  76%                               
+ Custom    91%    
+ 
+ #### Loss:
+ VGG16      11%              
+ ResNet50                                  
+ Custom     7%    
