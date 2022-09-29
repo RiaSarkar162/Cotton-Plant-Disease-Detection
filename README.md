@@ -29,3 +29,6 @@ VGG16      96%
  VGG16      11%              
  ResNet50                                  
  Custom     7%    
+Designed architecture shows highest accuracy 97% besides VGG16 shows 96%
+Accuracy which is pretty good. On the other hand, ResNet50 has given lower 
+accuracy may be the reason is small dataset.
